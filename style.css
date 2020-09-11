@@ -1,0 +1,28 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+video {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+
+.social-link-container {
+  display: inline-block;
+  border: 1px solid #000000;
+  border-radius: 10%;
+}
+
+.social-link-container:hover {
+  background-color: #000000;
+  color: #03c2d3;
+}
+
+.primary-bg {
+  background-color: #03c2d3;
+}
+
+.primary-color {
+  color: #03c2d3;
+}
