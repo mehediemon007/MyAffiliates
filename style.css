@@ -8,17 +8,6 @@ video {
   object-fit: cover;
 }
 
-.social-link-container {
-  display: inline-block;
-  border: 1px solid #000000;
-  border-radius: 10%;
-}
-
-.social-link-container:hover {
-  background-color: #000000;
-  color: #03c2d3;
-}
-
 .hero-content h1 {
   font-weight: 900;
   font-size: 4rem;
@@ -39,6 +28,17 @@ video {
   border-bottom: 2px solid #000;
 }
 
+.social-link-container {
+  display: inline-block;
+  border: 1px solid #000000;
+  border-radius: 10%;
+}
+
+.social-link-container:hover {
+  background-color: #000000;
+  color: #03c2d3;
+}
+
 /* Navbar */
 .navbar-brand {
   font-weight: 700;
@@ -55,6 +55,7 @@ video {
   border-bottom-left-radius: 10%;
   border-bottom-right-radius: 10%;
 }
+
 .primary-bg {
   background-color: #03c2d3;
 }
