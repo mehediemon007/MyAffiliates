@@ -19,6 +19,42 @@ video {
   color: #03c2d3;
 }
 
+.hero-content h1 {
+  font-weight: 900;
+  font-size: 4rem;
+}
+
+.hero-content h3 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.hero-content p {
+  font-weight: 300;
+  font-style: italic;
+}
+.main-link {
+  font-size: 1.2rem;
+  font-weight: 700;
+  border-bottom: 2px solid #000;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.8rem;
+  color: #000 !important;
+}
+.nav-item > a {
+  color: #000 !important;
+  font-size: 1.2rem;
+}
+
+.nav-btn {
+  background-color: #03c2d3;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
 .primary-bg {
   background-color: #03c2d3;
 }
